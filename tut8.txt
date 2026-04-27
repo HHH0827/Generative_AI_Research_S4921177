@@ -3,3 +3,4 @@ Q1 -Efficient file storage and organisation are important because research proje
 Q2 -Different types of research data should be stored in clearly separated folders, such as Literature_Review, Quantitative_Analysis, Qualitative_Analysis, Drafts_Reports, and Additional_Materials. Sensitive files, such as interview transcripts, consent forms, survey responses, and identifiable participant information, should have restricted access and should not be stored in a public GitHub repository. These files should be kept in secure university-approved storage with controlled permissions.
 Activity 2
 Q1 -A good naming convention is important because it makes files easier to identify, search, sort, and reuse across a research project. Clear file names also reduce confusion between different versions of the same document and help collaborators understand the content, date, and purpose of each file without opening it.
+
